@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dogs Catalog</string>
+    <string name="selection_message">Click an image below to view</string>
+    <string name="selection_activity_title">Select image</string>
+    <string name="display_activity_title">Dog image</string>
+    <string name="close_page_button">Back to Selection</string>
+
+    <string-array name="dogs_description_arr">
+        <item>Bernese Mountain Dog</item>
+        <item>Chinook</item>
+        <item>Hovawart</item>
+        <item>Pitbull Terrier</item>
+        <item>Samoyed</item>
+        <item>Airedale Terrier</item>
+        <item>Afghan Hound</item>
+        <item>Alaskan Malamute</item>
+        <item>American Staffordshire Terrier</item>
+        <item>Australian Shepherd</item>
+        <item>Basset Hound</item>
+        <item>Belgian Malinois</item>
+        <item>Belgian Sheepdog</item>
+        <item>Belgian Tervuren</item>
+        <item>Boxer</item>
+        <item>Borzoi</item>
+        <item>Bull Terrier</item>
+    </string-array>
+</resources>

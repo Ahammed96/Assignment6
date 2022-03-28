@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalogue Chiens</string>
+    <string name="selection_message">Cliquez sur une image ci-dessous pour voir</string>
+    <string name="selection_activity_title">Sélectionner une image</string>
+    <string name="display_activity_title">Image de chien</string>
+    <string name="close_page_button">Retour à la sélection</string>
+
+    <string-array name="dogs_description_arr">
+        <item>Chien de montagne bernois</item>
+        <item>Chinook</item>
+        <item>Hovawart</item>
+        <item>Pitbull Terrier</item>
+        <item>Samoyède</item>
+        <item>Terrier d\'Airedale</item>
+        <item>Lévrier afghan</item>
+        <item>Malamute d\'Alaska</item>
+        <item>Terrier américain du Staffordshire</item>
+        <item>Berger australien</item>
+        <item>Basset Hound</item>
+        <item>Malinois belge</item>
+        <item>Chien de berger belge</item>
+        <item>Tervuren belge</item>
+        <item>Boxeur</item>
+        <item>Barzoï</item>
+        <item>Bull terrier</item>
+    </string-array>
+</resources>
